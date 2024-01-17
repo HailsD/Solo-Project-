@@ -1,0 +1,15 @@
+Solo Project Brief
+Make a copy and rename “Full Name Solo Project Brief”
+
+1. Identify your user(s)
+   The user of this app will require CRUD app functionality.
+2. What is the problem you’re solving?
+   The user is looking for a more unique background for their applications. This app will be able to generate a gradient background based on colors selected by the user.
+3. What is the solution?
+   The solution will involve offering the user a way to select their desired colors by displaying a series of text boxes where the user can type in one color selection per text box.Then once they’re satisfied with their colors can then submit those colors. Then the app's background should change to a gradient created by a blend of those colors with some information displayed about that gradient info.
+4. What is the MVP scope? (core features you must get working)
+   MVP for this project would be allowing the user to type in their selection, and submit. Then generate a gradient and change the app's background color.
+5. What are the tough technical challenges involved with solving this problem?
+   Figuring out the details of CSS with creating a gradient will be the newest challenge for myself. After that I think just making sure the functionality of the text input boxes works as intended.
+6. What are the stretch goals?
+   Stretch goals for this project would be to display some sort of information about the gradient that was created for the user somewhere on the screen. Another stretch feature would be to empower the user with an ability to add another text box via an “Add Another Color” button that would allow them to add more than just 2 text input boxes.
