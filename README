@@ -16,3 +16,14 @@ Make a copy and rename “Full Name Solo Project Brief”
 
    https://www.youtube.com/watch?v=xElA9mGi-I0&ab_channel=TheBraveCoders
    MongoDB Pass: zxSHhicSEC51McJt
+
+"icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+
+  Problem: CRUD Operations
+  Solution: 

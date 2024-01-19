@@ -13,6 +13,7 @@ const App = () => {
     axios.get(`${baseURL}/get`).then((res) => {
       console.log(res.data);
       setTask(res.data);
+      console.log('Used setTask...');
     });
   }, [updateUI]);
 
@@ -50,7 +51,7 @@ const App = () => {
           onChange={(event) => setInput(event.target.value)}
         />
         <button type='submit' onClick={updateId ? updateTask : addTask}>
-          {updateId ? 'Update Task' : 'Add Task'}
+          {updateId ? 'Update Color' : 'Add a Color'}
         </button>
 
         <ul>

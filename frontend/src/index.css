@@ -2,7 +2,8 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Roboto', sans-serif;
+  font-family: cursive;
+  background-image: linear-gradient(white);
 }
 
 main {
@@ -23,6 +24,7 @@ main {
 input,
 button {
   padding: 10px;
+  background-color: white;
 }
 
 ul {
@@ -36,13 +38,16 @@ li {
   margin-bottom: 10px;
   display: flex;
   justify-content: space-between;
+  border-radius: 30px;
 }
 
 .icon_holder {
   display: flex;
   gap: 10px;
+  background-color: lightgrey;
 }
 
-.icon{
+.icon {
   cursor: pointer;
+  background-color: lightgrey;
 }
